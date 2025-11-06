@@ -13,12 +13,11 @@ maestri:
   qualifica: dottorando in Composizione e Performance Musicale, Conservatorio di Ferrara
   ruolo: coordinatore
 maestri-width: '0.3'
-subtitle: Proposta di laboratorio extracurriculare per la Scuola dell'Infanzia Salvatore
-  Quasimodo - 2025/2026
+subtitle: Scuola dell'Infanzia Lorenzo Cuneo - 2025/2026
 title: Piccoli esploratori sonori
 ---
 
-Vi proponiamo un corso extracurricolare pomeridiano di musica d’insieme, aperto alle bambine e ai bambini che frequentano la Scuola dell'Infanzia Salvatore Quasimodo.
+Vi proponiamo un corso extracurricolare pomeridiano di musica d’insieme, aperto alle bambine e ai bambini che frequentano la .
 Il laboratorio nasce da un progetto maturato nel corso di quattro anni di ricerca didattica e viene condotto da musicisti esperti nei repertori contemporaneo, elettroacustico e popolare.
 L’iniziativa intende offrire ai bambini un’esperienza musicale che unisca il gioco alla scoperta creativa del suono, favorendo al tempo stesso l’ascolto reciproco, la collaborazione e l’espressione personale in un'esperienza profondamente **significativa**.
 
@@ -105,7 +104,8 @@ La filosofia del progetto prevede l'utilizzo creativo di materiali semplici e ac
 
 ---
 
-La programmazione dettagliata, i costi e le modalità organizzative verranno concordati direttamente con la scuola in base alle vostre specifiche esigenze e disponibilità.
+Gli incontri si terranno ogni giovedì dal 27 novembre al 12 febbraio, **dalle 16:45 alle 18:00**, presso il plesso scolastico di **Via Mondovì**, per un totale di 10 lezioni, escluse le festività.
+
 
 
 

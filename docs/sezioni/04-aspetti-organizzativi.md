@@ -37,5 +37,6 @@ La programmazione tiene conto delle pause per le vacanze di Natale.
 
 ---
 
-La programmazione dettagliata, i costi e le modalità organizzative verranno concordati direttamente con la scuola in base alle vostre specifiche esigenze e disponibilità.
+Gli incontri si terranno ogni giovedì dal 27 novembre al 12 febbraio, **dalle 16:45 alle 18:00**, presso il plesso scolastico di **Via Mondovì**, per un totale di 10 lezioni, escluse le festività.
+
 {% endif %}

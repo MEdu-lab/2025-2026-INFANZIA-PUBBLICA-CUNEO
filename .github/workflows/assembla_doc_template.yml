@@ -28,8 +28,7 @@ jobs:
     steps:
     - name: Install dependencies (missing LaTeX packages )
       run: |
-        apt-get update && apt-get install -y git python3-pip
-        pip install pyyaml python-liquid
+        apt-get update && apt-get install -y git
         tlmgr install preprint xcolor
         
     - name: Checkout repository
@@ -37,17 +36,17 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Processa i template con Python  e Genera il PDF con Pandoc
+    - name: Assembla README e Genera il PDF con Pandoc
       run: |
         rm -f README.md *.pdf
-        python3 .github/scripts/process-template.py
+        # README.md assemblato (frontmatter da config.yml + sezioni concatenate)
+        pandoc docs/sezioni/*.md --metadata-file=config.yml -s -t markdown -o README.md
         TITLE=$(sed -n '/^---$/,/^---$/p' README.md | grep '^title:' | head -n1 | sed 's/title:[[:space:]]*//; s/^ *//; s/ *$//; s/[*]//g')
         SAFE_TITLE=$(echo "$TITLE" | tr ' ' '_' | tr -cd '[:alnum:]_')
         TIMESTAMP=$(date +%Y%m%d_%H%M%S)
-        #PDF_NAME="${SAFE_TITLE}-${TIMESTAMP}.pdf"
         PDF_NAME="${SAFE_TITLE}-MEduLab-${TIMESTAMP}.pdf"
         echo "Generazione PDF: $PDF_NAME"
-        pandoc README.md -o "$PDF_NAME" \
+        pandoc docs/sezioni/*.md --metadata-file=config.yml -o "$PDF_NAME" \
           --pdf-engine=pdflatex \
           --template=styles/template.latex
         echo "PDF_NAME=$PDF_NAME" >> $GITHUB_ENV

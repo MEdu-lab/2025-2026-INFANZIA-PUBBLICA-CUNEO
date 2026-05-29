@@ -1,4 +1,4 @@
-Vi proponiamo un corso extracurricolare pomeridiano di musica d’insieme, aperto alle bambine e ai bambini che frequentano la {{ progetto.sottotitolo }}.
+Vi proponiamo un corso extracurricolare pomeridiano di musica d’insieme, aperto alle bambine e ai bambini che frequentano la Scuola dell’Infanzia Lorenzo Cuneo.
 Il laboratorio nasce da un progetto maturato nel corso di quattro anni di ricerca didattica e viene condotto da musicisti esperti nei repertori contemporaneo, elettroacustico e popolare.
 L’iniziativa intende offrire ai bambini un’esperienza musicale che unisca il gioco alla scoperta creativa del suono, favorendo al tempo stesso l’ascolto reciproco, la collaborazione e l’espressione personale in un'esperienza profondamente **significativa**.
 
@@ -10,17 +10,8 @@ L’obiettivo del corso è imparare ad ascoltare sé stessi e gli altri mentre s
 
 >*il ritmo si può solo liberare, sprigionare. Ritmo non è un'entità astratta, ritmo è la vita stessa. Ritmo agisce e provoca, è la forza che unisce linguaggio, musica e movimento.* (Carl Orff)
 
-\vspace{.5cm}
-
 \begin{center}
 \includegraphics[width=0.9\textwidth]{images/output.jpg}
 \end{center}
 
 \vspace{.5cm}
-
-<!-- **Maestri:** 
-{% for maestro in maestri %}
-- **{{ maestro.nome }}** - {{ maestro.qualifica }}
-{% endfor %}
-
--->

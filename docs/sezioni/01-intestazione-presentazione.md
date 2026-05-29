@@ -12,6 +12,12 @@ L’obiettivo del corso è imparare ad ascoltare sé stessi e gli altri mentre s
 
 \vspace{.5cm}
 
+\begin{center}
+\includegraphics[width=0.9\textwidth]{images/output.jpg}
+\end{center}
+
+\vspace{.5cm}
+
 <!-- **Maestri:** 
 {% for maestro in maestri %}
 - **{{ maestro.nome }}** - {{ maestro.qualifica }}

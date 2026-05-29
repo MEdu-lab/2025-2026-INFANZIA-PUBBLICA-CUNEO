@@ -17,7 +17,7 @@ subtitle: Scuola dell'Infanzia Lorenzo Cuneo - 2025/2026
 title: Piccoli esploratori sonori
 ---
 
-Vi proponiamo un corso extracurricolare pomeridiano di musica d’insieme, aperto alle bambine e ai bambini che frequentano la .
+Vi proponiamo un corso extracurricolare pomeridiano di musica d’insieme, aperto alle bambine e ai bambini che frequentano la Scuola dell'Infanzia Lorenzo Cuneo.
 Il laboratorio nasce da un progetto maturato nel corso di quattro anni di ricerca didattica e viene condotto da musicisti esperti nei repertori contemporaneo, elettroacustico e popolare.
 L’iniziativa intende offrire ai bambini un’esperienza musicale che unisca il gioco alla scoperta creativa del suono, favorendo al tempo stesso l’ascolto reciproco, la collaborazione e l’espressione personale in un'esperienza profondamente **significativa**.
 

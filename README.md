@@ -43,7 +43,6 @@ rappresenta la principale motivazione.
 \begin{center}
 \includegraphics[width=0.9\textwidth]{images/output.jpg}
 \end{center}
-\vspace{.5cm}
 
 ## RISULTATI, FINALITÀ E OBIETTIVI
 

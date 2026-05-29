@@ -10,10 +10,6 @@ maestri:
   qualifica: diplomato in Musica Elettronica, Conservatorio di Santa
     Cecilia, Roma
   ruolo: operatore
-- nome: Marco Di Gasbarro
-  qualifica: dottorando in Composizione e Performance Musicale,
-    Conservatorio di Ferrara
-  ruolo: coordinatore
 subtitle: Scuola dell'Infanzia Lorenzo Cuneo - 2025/2026
 title: Piccoli esploratori sonori
 ---

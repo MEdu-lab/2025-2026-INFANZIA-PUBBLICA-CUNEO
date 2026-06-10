@@ -41,7 +41,7 @@ rappresenta la principale motivazione.
 > che unisce linguaggio, musica e movimento.* (Carl Orff)
 
 \begin{center}
-\includegraphics[width=0.9\textwidth]{images/output.jpg}
+\includegraphics[width=0.8\textwidth]{images/output.jpg}
 \end{center}
 
 ## RISULTATI, FINALITÀ E OBIETTIVI

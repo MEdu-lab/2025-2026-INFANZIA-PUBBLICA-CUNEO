@@ -11,5 +11,5 @@ L’obiettivo del corso è imparare ad ascoltare sé stessi e gli altri mentre s
 >*il ritmo si può solo liberare, sprigionare. Ritmo non è un'entità astratta, ritmo è la vita stessa. Ritmo agisce e provoca, è la forza che unisce linguaggio, musica e movimento.* (Carl Orff)
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/output.jpg}
+\includegraphics[width=0.7\textwidth]{images/output.jpg}
 \end{center}

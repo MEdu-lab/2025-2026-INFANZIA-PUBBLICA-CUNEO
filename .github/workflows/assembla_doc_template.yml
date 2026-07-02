@@ -29,6 +29,7 @@ jobs:
     - name: Install dependencies (missing LaTeX packages )
       run: |
         apt-get update && apt-get install -y git
+        tlmgr update --self
         tlmgr install preprint xcolor
         
     - name: Checkout repository
